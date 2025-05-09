@@ -1,2 +1,2 @@
 # fizzBuzz
-Learn C++ 
+Learn C++ Learn Java
